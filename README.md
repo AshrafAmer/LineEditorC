@@ -8,8 +8,7 @@ Just Run code on your local machine.
 
 ## Usage
 - install DOSBOX on your local machine
-- create new project
-- copy&paste this code to your new project
+- copy&paste this code to your new project in [bin Folder]
 - Finally, Run it
 - Congrats it works
 
